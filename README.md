@@ -1,4 +1,4 @@
-# archlinux_pkg_recommend
+# archlinux软件包推荐
 
 1. yay
     - golang编写的好用的AUR包管理软件
