@@ -12,3 +12,5 @@
     - 类似于listary的强大搜索器
 1. archlinuxcn/wps-office
     - 优秀的办公套件
+1. AUR/ttf-ms-win10
+    - Windows字体(需要自行从Windows目录中提取)
